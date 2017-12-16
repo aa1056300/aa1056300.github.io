@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</title>
+	<atom:link href="http://pandy.io/feed" rel="self" type="application/rss+xml" />
+	<link>http://pandy.io</link>
+	<description>Nous connectons les candidats au permis de conduire et les aidons à le réussir.</description>
+	<lastBuildDate>Wed, 29 Nov 2017 17:14:29 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+
+<image>
+	<url>http://pandy.io/wp-content/uploads/2017/07/cropped-Pandy-logo-final-11-32x32.png</url>
+	<title>Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</title>
+	<link>http://pandy.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>http://pandy.io/hello-world-3</link>
+		<comments>http://pandy.io/hello-world-3#comments</comments>
+		<pubDate>Sat, 15 Jul 2017 06:05:28 +0000</pubDate>
+		<dc:creator><![CDATA[adminpandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://themes.graphchilly.com/eco/?p=1</guid>
+		<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/hello-world-3">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/hello-world-3">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/hello-world-3/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>a sdfasd</title>
+		<link>http://pandy.io/a-sdfasd</link>
+		<comments>http://pandy.io/a-sdfasd#respond</comments>
+		<pubDate>Wed, 12 Jul 2017 06:48:49 +0000</pubDate>
+		<dc:creator><![CDATA[adminpandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp/eco/?p=490</guid>
+		<description><![CDATA[<p>fasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdf</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/a-sdfasd">a sdfasd</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>fasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdffasdfasd fasdfasdf asdfasdf asdf asd fasdf</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/a-sdfasd">a sdfasd</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/a-sdfasd/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>test</title>
+		<link>http://pandy.io/test</link>
+		<comments>http://pandy.io/test#comments</comments>
+		<pubDate>Wed, 12 Jul 2017 06:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[adminpandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp/eco/?p=488</guid>
+		<description><![CDATA[<p>asd fasdfasdfasdfasdfasdf asd fasdfwaerawefsadf asdf asdfasdfasdfasdf asd</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/test">test</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>asd fasdfasdfasdfasdfasdf asd fasdfwaerawefsadf asdf asdfasdfasdfasdf asd</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/test">test</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/test/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Helloooo!</title>
+		<link>http://pandy.io/helloooo</link>
+		<comments>http://pandy.io/helloooo#respond</comments>
+		<pubDate>Wed, 21 Jun 2017 11:58:59 +0000</pubDate>
+		<dc:creator><![CDATA[adminpandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp/eco/?p=452</guid>
+		<description><![CDATA[<p>Notice is off to a profitable start in 2017. The company&#8217;s first-quarter sales jumped 23 percent to $35.7 billion, beating analyst expectations, and top executives pinned part of that spike on the Alexa ecosystem. « We&#8217;re very encouraged by the customer response to Echo products, » one exec said during Notice&#8217;s financial call today. « Not only the [&#8230;]</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/helloooo">Helloooo!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Notice is off to a profitable start in 2017. The company&rsquo;s first-quarter sales jumped 23 percent to $35.7 billion, beating analyst expectations, and top executives pinned part of that spike on the Alexa ecosystem.</p>
+<p>« We&rsquo;re very encouraged by the customer response to Echo products, » one exec said during Notice&rsquo;s financial call today. « Not only the products, but the ability now to use tablets as Echo devices, since we spread the Alexa technology to many of those devices. We&rsquo;re also happy with the success we&rsquo;ve had with developers; there are now more than 12,000 Alexa skills, so we think that&rsquo;s all foundational. »</p>
+<p>Notice debuted the Echo in 2014, bringing the voice-activated Alexa assistant into people&rsquo;s homes. Since then, the company has released the $50 Echo Dot and opened up the Alexa software to developers.Notice is off to a profitable start in 2017. The company&rsquo;s first-quarter sales jumped 23 percent to $35.7 billion, beating analyst expectations, and top executives pinned part of that spike on the Alexa ecosystem.</p>
+<p>« We&rsquo;re very encouraged by the customer response to Echo products, » one exec said during Notice&rsquo;s financial call today. « Not only the products, but the ability now to use tablets as Echo devices, since we spread the Alexa technology to many of those devices. We&rsquo;re also happy with the success we&rsquo;ve had with developers; there are now more than 12,000 Alexa skills, so we think that&rsquo;s all foundational. »</p>
+<p>Notice debuted the Echo in 2014, bringing the voice-activated Alexa assistant into people&rsquo;s homes. Since then, the company has released the $50 Echo Dot and opened up the Alexa software to developers.Notice is off to a profitable start in 2017. The company&rsquo;s first-quarter sales jumped 23 percent to $35.7 billion, beating analyst expectations, and top executives pinned part of that spike on the Alexa ecosystem.</p>
+<p>« We&rsquo;re very encouraged by the customer response to Echo products, » one exec said during Notice&rsquo;s financial call today. « Not only the products, but the ability now to use tablets as Echo devices, since we spread the Alexa technology to many of those devices. We&rsquo;re also happy with the success we&rsquo;ve had with developers; there are now more than 12,000 Alexa skills, so we think that&rsquo;s all foundational. »</p>
+<p>Notice debuted the Echo in 2014, bringing the voice-activated Alexa assistant into people&rsquo;s homes. Since then, the company has released the $50 Echo Dot and opened up the Alexa software to developers.</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/helloooo">Helloooo!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/helloooo/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I can hear you</title>
+		<link>http://pandy.io/i-can-hear-you</link>
+		<comments>http://pandy.io/i-can-hear-you#respond</comments>
+		<pubDate>Wed, 21 Jun 2017 11:58:29 +0000</pubDate>
+		<dc:creator><![CDATA[adminpandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp/eco/?p=448</guid>
+		<description><![CDATA[<p>Notice is off to a profitable start in 2017. The company&#8217;s first-quarter sales jumped 23 percent to $35.7 billion, beating analyst expectations, and top executives pinned part of that spike on the Alexa ecosystem. « We&#8217;re very encouraged by the customer response to Echo products, » one exec said during Notice&#8217;s financial call today. « Not only the [&#8230;]</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/i-can-hear-you">I can hear you</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Notice is off to a profitable start in 2017. The company&rsquo;s first-quarter sales jumped 23 percent to $35.7 billion, beating analyst expectations, and top executives pinned part of that spike on the Alexa ecosystem.</p>
+<p>« We&rsquo;re very encouraged by the customer response to Echo products, » one exec said during Notice&rsquo;s financial call today. « Not only the products, but the ability now to use tablets as Echo devices, since we spread the Alexa technology to many of those devices. We&rsquo;re also happy with the success we&rsquo;ve had with developers; there are now more than 12,000 Alexa skills, so we think that&rsquo;s all foundational. »</p>
+<p>Notice debuted the Echo in 2014, bringing the voice-activated Alexa assistant into people&rsquo;s homes. Since then, the company has released the $50 Echo Dot and opened up the Alexa software to developers.</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/i-can-hear-you">I can hear you</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/i-can-hear-you/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://pandy.io/hello-world</link>
+		<comments>http://pandy.io/hello-world#comments</comments>
+		<pubDate>Wed, 14 Jun 2017 16:51:44 +0000</pubDate>
+		<dc:creator><![CDATA[adminpandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://pandy.io/?p=1</guid>
+		<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/hello-world">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/hello-world">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/hello-world/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://pandy.io/hello-world-2-2</link>
+		<comments>http://pandy.io/hello-world-2-2#comments</comments>
+		<pubDate>Mon, 12 Jun 2017 16:14:25 +0000</pubDate>
+		<dc:creator><![CDATA[adminpandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wp/eco/?p=1</guid>
+		<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/hello-world-2-2">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/hello-world-2-2">Hello world!</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/hello-world-2-2/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>This is another post</title>
+		<link>http://pandy.io/this-is-another-post</link>
+		<comments>http://pandy.io/this-is-another-post#respond</comments>
+		<pubDate>Tue, 14 Feb 2017 07:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[Pandy]]></dc:creator>
+				<category><![CDATA[test]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/w/?p=199</guid>
+		<description><![CDATA[<p>The need is to design a CMS system that holds account of multiple users and will be maintained by an admin. There should be a nice front end UI with professional graphics. Existing templates from portfolio can be used. There will be a backend database of choice that maintains the transactions and the process and [&#8230;]</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/this-is-another-post">This is another post</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div>
+<div class="description break hide-less-button">
+<div><span class="">The need is to design a CMS system that holds account of multiple users and will be maintained by an admin. There should be a nice front end UI with professional graphics. Existing templates from portfolio can be used. There will be a backend database of choice that maintains the transactions and the process and the technology stack should either be .NET preferably or LAMP. The system needs to have the correct SSL features implemented and needs to be tightly secured with certificates. The application should be compatible across platforms and browsers i.e Web (chrome, IE, Firefox, safari),</span></div>
+<div></div>
+<div></div>
+<blockquote>
+<div><span class=""> Mobile, Tab and Macs. The system should keep history of the transactions by the customers and the admin. Pages: Main Page &#8211; with option to login &#8211; Signup Login page &#8211; with forgot username / password and Captcha Signup page &#8211; Form with all the details and submit button. Will not automatically create an account.</span></div>
+</blockquote>
+<div></div>
+<div></div>
+<div><span class=""> The person will get a page saying your account will be reviewed and </span></div>
+<div><span class="">responded back etc. The email will be sent to admin for the person who has signed up. Customer 1. Customer landing page: With Display of following (from the database): &#8211; Total Investment &#8211;</span></div>
+<div><span class="">Gain / Loss &#8211; Portfolio &#8211; Quarterly Div &#8211; Share Price &#8211; View Alerts / Notifications 2. Customer – My Account Page: &#8211; Name, address, phone number, dob, email, reset password, add bank details 3. Customer – Deposit page Deposit amount entry. Request Date. Actual deposit date. Submit button. Confirmation flag( this will be updated by the admin once the back office manually will confirm if the transfer was made or not) see Admin – Transaction section. 4. Customer – Withdrawal page How do you want to withdraw the money? Option 1 – By Wire , Option 2 – by Check Wire: 2 selections- Domestic or Internation- Domestic: Entry for Bank Name, Account #, Routing # International: Entry for Bank Name , Account #, ABA Routing #, Swift Code, Bank Address Check: Please enter your Mailing Address and select the confirm button. Post Submit of Withdrawal request: Once the Wire or Check options are selected and Submitted, then notification to Customer in email and on the page should appear that the funds will be transferred in 3-5 business days. Admin The Admin page will have 5 tabs or options in the panel. 1. Message Center 2. Account Maintenance 3. Transactions 4. Earnings Update 5. TBD Account Maintenance -New Account setup &#8211; ability to send sign up confirmation links to user and access to their account. Ability to send email verification. &#8211; Account Maintenance- Ability to update customer accounts, make changes, create new or delete existing accounts, reset password, send link for password change. Message Center &#8211; Send Messages to users as alerts which shows up on their main page and gets delivered to their email address with which they signed up. Earnings Update: &#8211; Entry to make transactions in regard to money transfer for funds. &#8211; Entry to make updates to the Total Investment, Gain/Loss, Quarterly div, share price. &#8211; See alerts on the first page for the sign up requests Transactions: &#8211; Keep log of request made to deposit or withdraw amount.</span></div>
+</div>
+</div>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/this-is-another-post">This is another post</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/this-is-another-post/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>This is demo post</title>
+		<link>http://pandy.io/pizza-is-super</link>
+		<comments>http://pandy.io/pizza-is-super#respond</comments>
+		<pubDate>Sun, 12 Feb 2017 11:11:30 +0000</pubDate>
+		<dc:creator><![CDATA[Pandy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/w/?p=193</guid>
+		<description><![CDATA[<p>I have a website that is half completed i would like it finished. Word press Website: http://new.mintmastering.com Reference website: https://www.landr.com/en Create basic User profiles. Log in to land.com to see example. When clicking on an &#8216;upload&#8217; tab user must sign up/ log in via Facebook or Soundcloud, and log out. I want users to have [&#8230;]</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/pizza-is-super">This is demo post</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>I have a website that is half completed i would like it finished. Word press Website: http://new.mintmastering.com Reference website: https://www.landr.com/en Create basic User profiles. Log in to land.com to see example. When clicking on an &lsquo;upload&rsquo; tab user must sign up/ log in via Facebook or Soundcloud, and log out. I want users to have a profile to manage their uploaded audio files. And when i have finished the job i want to be able to upload the finished audio file back to the Users profile allowing them to download file. Basic user information&#8230; e.g. First &amp; Surname (which will be used as users profile name), Country, Province/ State, city, age. And email (to be stored for future promotions). Home page: Make entire websites font style that same as « HOW IT WORKS » (scroll down on page to see example) and i would like the font thinner (skinnier). Add &lsquo;upload&rsquo; plug in to all 4 photos, with drag &amp; drop option. Uploading too via Dropbox set up. Uploaded files will range from 50Mb &#8211; 700Mb. Replace GIF. I have attached the file to this project. Create a sample comparisons. « algorithm vs human ». I will upload to you 2 mp3 files for this. Customize 3 package (located at the bottom of the home page) Make packages titles &lsquo;Bold&rsquo; make smaller « usd » make larger « $149, $34, $25 » Make the « HD » black gold in colour. Make the « LO-Res &amp; HI-Res » black silver in colour. &lsquo;PRICING&rsquo; tab to be directed to the bottom of the &lsquo;Home&rsquo; page. &lsquo;FAQS&rsquo; / help page. Transfer all information from old mint mastering website. If you have any suggestions, recommendations and better options please feel free to discuss with me.</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/pizza-is-super">This is demo post</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/pizza-is-super/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blog post there</title>
+		<link>http://pandy.io/blog-post-there</link>
+		<comments>http://pandy.io/blog-post-there#comments</comments>
+		<pubDate>Tue, 07 Feb 2017 12:02:55 +0000</pubDate>
+		<dc:creator><![CDATA[Pandy]]></dc:creator>
+				<category><![CDATA[test]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/w/?p=131</guid>
+		<description><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]</p>
+<p>L’article <a rel="nofollow" href="http://pandy.io/blog-post-there">Blog post there</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<span class="et_bloom_bottom_trigger"></span><p>L’article <a rel="nofollow" href="http://pandy.io/blog-post-there">Blog post there</a> est apparu en premier sur <a rel="nofollow" href="http://pandy.io">Pandy, l&#039;application qui t&#039;aide à réussir le permis de conduire</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://pandy.io/blog-post-there/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
